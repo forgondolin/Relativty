@@ -184,3 +184,8 @@ It’ll automatically calibrate after a few seconds.
 
 You can now run any SteamVR game!
 
+## Why I forked it?
+
+200 $ still a lot of money for 3rd world countries. My goal is to make this project even cheapier with 
+educational purpouses. 
+
